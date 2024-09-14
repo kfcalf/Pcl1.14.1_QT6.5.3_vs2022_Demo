@@ -139,7 +139,7 @@ void QtWidgetsApplication3::pushButton_ColorPickerClicked()
         double b = color.blueF();
 
         viewer->setBackgroundColor(r, g, b);
-        viewer->getRenderWindow()->Render(); // 更新渲染窗口
+        viewer->getRenderWindow()->Render(); //  更新渲染窗口
     }
 }
 

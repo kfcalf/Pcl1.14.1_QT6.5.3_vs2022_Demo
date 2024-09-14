@@ -41,4 +41,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="pcl1.14.1_DebugQTvtk9.3.props" />
+    <None Include="pcl1.14.1_ReleaseQTvtk6.3.props" />
+  </ItemGroup>
 </Project>
