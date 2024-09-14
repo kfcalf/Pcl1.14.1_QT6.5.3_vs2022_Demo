@@ -104,6 +104,7 @@
   <ItemGroup>
     <None Include="pcl1.14.1_DebugQTvtk9.3.props" />
     <None Include="pcl1.14.1_ReleaseQTvtk6.3.props" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
